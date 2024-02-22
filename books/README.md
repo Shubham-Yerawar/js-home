@@ -1,0 +1,1 @@
+This section of the repo will hold all the books / resources for javascript.
